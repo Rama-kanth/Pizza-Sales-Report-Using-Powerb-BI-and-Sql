@@ -6,7 +6,7 @@ The goal of this project is to analyze pizza sales data to uncover trends and in
 
 # Tools & Technologies
 - **SQL**: For querying and transforming sales data
-- **Power**: For data visualization and dashboard creation
+- **Power BI**: For data visualization and dashboard creation
 - **CSV**: Raw sales data files
 
 # Key Features
